@@ -1,4 +1,4 @@
-# Angular2-Meteor-Base Tutorial
+# funsociety Tutorial
 
 ## Usage
 
